@@ -5,7 +5,7 @@ Este projeto contém uma página web simples criada com HTML e CSS.
 # Estrutura do projeto
 
 - `index.html` → estrutura da página  
-- `style.css` → estilização da página  
+- `index.css` → estilização da página  
 
 # Elementos presentes
 
